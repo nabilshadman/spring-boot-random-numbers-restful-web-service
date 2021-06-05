@@ -9,6 +9,6 @@ Tasks accomplished:
 
 (3) Created the Rest Controller in the controller directory
 
-(4) Implemented the Java Spring Controller Class to handle HTTP get requests and invoked the model
+(4) Implemented the Java Spring Controller Class to handle HTTP get requests, and invoked the model
 
 (5) Created a Python app to consume the Spring web service after starting the tomcat web server
