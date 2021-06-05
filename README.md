@@ -1,5 +1,5 @@
 # spring-boot-random-numbers-restful-web-service
-A RESTful web service that returns a list of random numbers to the consumer, created with Spring Boot
+A RESTful web service (created with Spring Boot) that returns a list of random numbers to the consumer
 
 Tasks accomplished:
 
