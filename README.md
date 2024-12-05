@@ -2,8 +2,6 @@
 
 A RESTful web service built with Spring Boot that generates customizable random number sequences. Includes a Python client demonstrating cross-language service consumption.
 
-![Random Numbers Demo](demo/1_random_numbers_raw_data.jpg)
-
 ## 🚀 Features
 
 - RESTful API for random number generation
@@ -134,11 +132,23 @@ python -m pytest consumer/test_rand.py
 
 ## 📸 Screenshots
 
-<table>
-  <tr>
-    <td><img src="demo/2_tomcat_server_started.jpg" alt="Server Running"/></td>
-    <td><img src="demo/3_python_app_consumes_spring_web_service.jpg" alt="Client Demo"/></td>
-  </tr>
+<table width="100%">
+<tr>
+<td width="50%"><strong>Random Numbers JSON Response</strong></td>
+<td width="50%"><strong>Random Numbers Raw Data</strong></td>
+</tr>
+<tr>
+<td><img src="demo/0_random_numbers_json.jpg" width="100%"></td>
+<td><img src="demo/1_random_numbers_raw_data.jpg" width="100%"></td>
+</tr>
+<tr>
+<td width="50%"><strong>Spring Boot Server Running</strong></td>
+<td width="50%"><strong>Python Client Consumption</strong></td>
+</tr>
+<tr>
+<td><img src="demo/2_tomcat_server_started.jpg" width="100%"></td>
+<td><img src="demo/3_python_app_consumes_spring_web_service.jpg" width="100%"></td>
+</tr>
 </table>
 
 ## 🤝 Contributing
